@@ -1,5 +1,6 @@
 #!/usr/bin/env php
 <?php
+require_once dirname(__FILE__).'/initialize.php';
 /* PHPUnit
  *
  * Copyright (c) 2001-2012, Sebastian Bergmann <sebastian@phpunit.de>.

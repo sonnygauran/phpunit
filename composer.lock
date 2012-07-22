@@ -1,5 +1,5 @@
 {
-    "hash": "f5e4fa15c74399f003cf0e752584e899",
+    "hash": "e39e4d929d4383a65bec37a149551d3a",
     "packages": [
         {
             "package": "phpunit/dbunit",
@@ -48,7 +48,6 @@
     ],
     "minimum-stability": "stable",
     "stability-flags": {
-        "phpunit/php-text-template": 20,
         "phpunit/php-code-coverage": 20,
         "phpunit/php-token-stream": 20,
         "phpunit/php-timer": 20,

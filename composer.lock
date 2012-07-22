@@ -1,0 +1,58 @@
+{
+    "hash": "54159b528f98291388ff6894d682490a",
+    "packages": [
+        {
+            "package": "phpunit/dbunit",
+            "version": "1.1.1.1"
+        },
+        {
+            "package": "phpunit/php-code-coverage",
+            "version": "1.1.x-dev",
+            "source-reference": "ce1b6ff7a3eb38d010c0183a7d59e6de5084d84b",
+            "commit-date": "1342987206"
+        },
+        {
+            "package": "phpunit/php-file-iterator",
+            "version": "dev-master",
+            "source-reference": "14c965fb6391d55fcadf9943037a995ad4a4f445",
+            "commit-date": "1342985444"
+        },
+        {
+            "package": "phpunit/php-text-template",
+            "version": "dev-master",
+            "source-reference": "ff61f3220c91556fa6864c65bebadf2885d8ba58",
+            "commit-date": "1342985480"
+        },
+        {
+            "package": "phpunit/php-timer",
+            "version": "dev-master",
+            "source-reference": "7006676a42cbf9881c831995b93ace19b18382f2",
+            "commit-date": "1342987322"
+        },
+        {
+            "package": "phpunit/php-token-stream",
+            "version": "dev-master",
+            "source-reference": "dd917530e954a9442206ccd40faac8f24afd2bcf",
+            "commit-date": "1342987269"
+        },
+        {
+            "package": "phpunit/phpunit-mock-objects",
+            "version": "dev-master",
+            "source-reference": "de56dc97aa9260bdc59ed9a6d9bd067a052a0766",
+            "commit-date": "1342987367"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "phpunit/php-file-iterator": 20,
+        "phpunit/php-text-template": 20,
+        "phpunit/php-code-coverage": 20,
+        "phpunit/php-token-stream": 20,
+        "phpunit/php-timer": 20,
+        "phpunit/phpunit-mock-objects": 20
+    }
+}

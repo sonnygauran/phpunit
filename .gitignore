@@ -10,3 +10,4 @@ Tests/TextUI/*.out
 Tests/TextUI/*.php
 phpunit.phar
 phpunit.xml
+vendor/
